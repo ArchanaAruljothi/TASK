@@ -1,0 +1,59 @@
+.myheading{
+    color:rgb(10, 212, 253);
+    background-color:white;
+    text-align: center;
+ 
+}
+.mypara{
+    color:cyan;
+    font-size: 25px;
+   
+}
+.body{
+    background-image: url('../IMAGES/bg1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer{
+    color:white;
+    text-align: right;   
+}
+.mypara1{
+    color:cyan;
+    font-size: 25px;
+    position: absolute;
+    top:210px;
+    right:50px;
+}
+.mypara2{
+    color:beige;
+    font-size: 20px;
+
+}
+.mypara3{
+    color:cyan;
+    font-size: 25px;
+    text-align: center;
+   
+}
+.img{
+    width:500px;
+    height :500px;
+    /* border-radius:"50%"; */
+    clip-path: circle(50% at center);
+}
+.container{
+    max-width:400px;
+    margin: 0 auto;
+    padding: 20px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    background-color: aquamarine;
+
+}
+.mypara3{
+    color:black;
+    font-size: 25px;
+    text-align: center;
+   
+}
